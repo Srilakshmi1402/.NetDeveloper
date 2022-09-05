@@ -18,11 +18,8 @@ namespace Lab5
             Console.ReadLine();
         }
 
-        /// <summary>
         /// Method to swap two numbers
-        /// </summary>
-        /// <param name="Number1"></param>
-        /// <param name="Number2"></param>
+       
         private static void SwapValues(ref int Number1, ref int Number2)
         {
             //Write your logic here
